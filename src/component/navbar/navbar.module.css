@@ -1,0 +1,47 @@
+.navbar {
+    background-color: whitesmoke;
+    font-size: 15px;
+}
+
+.LogoNike{
+    width: 5vw;
+    height: 10vh;
+}
+
+.form_control{
+    width: 11vw;
+    height: 5vh;
+    border-radius: 20px;
+    border: 1px solid rgb(128, 128, 128, 0.1);
+    font-size: 14px;
+}
+
+.navitem{
+    color: rgb(0, 0, 0,0.5);
+    /* background-color: aqua; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.navitem:hover{
+    color: rgb(0, 0, 0,0.9);
+    /* background-color: aqua; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    border-bottom: 2px solid rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+.judulUtama{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+

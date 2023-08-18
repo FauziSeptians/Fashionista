@@ -1,0 +1,100 @@
+.image{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.bannerNama{
+    /* background-color: aqua; */
+    height: 520px;
+    position: relative;
+}
+
+.biodata{
+    position: absolute;
+    margin: 0;
+    width: 94%;
+    bottom: 0;
+    left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: aqua; */
+}
+
+.description{
+    margin-top: 130px;
+    /* background-color: red; */
+    margin-left: 40px;
+}
+
+.profile{
+
+    border-radius: 100%;
+    width: 250px;
+}
+
+.nama{
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.asal{
+    font-size: 25px;
+    opacity: 0.7;
+}
+
+.section1{
+    /* background-color: blue; */
+    display: flex;
+}
+
+.section2{
+    /* background-color: blue; */
+    display: flex;
+    margin-top: 100px;
+}
+
+.detailcart{
+    background-color: aquamarine;
+    display: flex;
+    gap: 20px;
+}
+
+.biodetail{
+    margin-top: 20px;
+    /* background-color: aquamarine; */
+    padding: 30px;
+    /* border-top: 1px solid rgb(0, 0, 0, 0.4); */
+}
+
+.tanggallahir{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sectionbio1{
+    padding: 20px;
+    /* background-color: blueviolet; */
+    border-right: 1px solid rgb(0, 0, 0, 0.4);
+    font-size: 20px;
+}
+
+.sectionbio2{
+    padding: 20px;
+    /* background-color: blueviolet; */
+}
+
+.notlp{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.address{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
